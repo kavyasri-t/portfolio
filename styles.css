@@ -177,13 +177,14 @@ margin-left:130px;
 }
 .card-text{
   text-align:center;
- 
+  color:balck;
   font-weight:450;
   font-size:20px;
 }
 
 #footer{
   text-align:center;
+
   
  padding: 0 5% 15%;
  line-height:2;
@@ -193,8 +194,13 @@ margin-left:130px;
 }
 
 .ideas{
+
  padding:10px;
  color:#66BFBF
+
+ padding-bottom:10px;
+   
+
 }
 @media (max-width:1028px){
   #title{
