@@ -184,15 +184,17 @@ margin-left:130px;
 
 #footer{
   text-align:center;
-  color:black;
+  
  padding: 0 5% 15%;
  line-height:2;
  background-color:#E4F9F5;
+ font-weight:600;
  
 }
 
 .ideas{
- padding-bottom:10px;
+ padding:10px;
+ color:#66BFBF
 }
 @media (max-width:1028px){
   #title{
